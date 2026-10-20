@@ -1,0 +1,5 @@
+delivery_bucket,orders,avg_review_score,one_star_pct,positive_pct
+1. on time or early,89443,4.29,6.6,82.7
+2. 1-3 days late,1852,3.29,25.1,53.2
+3. 4-7 days late,1748,2.1,58.6,22.5
+4. 8+ days late,2781,1.7,69.8,11.7

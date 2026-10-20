@@ -1,0 +1,8 @@
+check_name,n
+orders with status other than delivered,2963
+delivered orders with no delivery date,8
+orders without any item,775
+orders with more than one review,547
+products without a category,610
+customer_id minus customer_unique_id (repeat buyers hidden),3345
+orders where payments differ from items+freight by > 1 BRL,249
